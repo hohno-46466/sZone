@@ -2,7 +2,7 @@
 
 Japan
 
-  ./Japan
+    ./Japan
     ├── README.md
     ├── Ishikawa -> 石川県の感染者総数の推移
     └── 石川県の感染者総数の推移

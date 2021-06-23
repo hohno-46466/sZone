@@ -1,7 +1,7 @@
 # sZone
 Special / Social Zone
 
-  ./sZone
+    ./sZone
     ├── COVID-19
     │   ├── Japan
     │   │   ├── README.md
