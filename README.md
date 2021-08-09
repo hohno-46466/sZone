@@ -1,2 +1,1 @@
-# sZone
-Special / Social Zone
+# sZone - Special / Social Zone
