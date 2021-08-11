@@ -1,1 +1,3 @@
-# sZone - Special / Social Zone
+# GitHub/sZone - Special / Social Zone
+
+-EOF-
