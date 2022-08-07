@@ -32,8 +32,8 @@ Special / Social Zone
      5 directories, 14 files (Mon Aug  8 02:56:13 JST 2022)
 
 
-Note: url = https://github.com/hohno-46466/sZone
+Note: URL = https://github.com/hohno-46466/sZone
 
-Note: url = git@github.com:hohno-46466/sZone.git
+Note: URL = git@github.com:hohno-46466/sZone.git
 
 -EOF-
