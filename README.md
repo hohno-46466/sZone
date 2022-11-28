@@ -6,7 +6,7 @@ Special / Social Zone
      ├──  README.md
      └──  README.md.old
      
-     0 directories, 2 files (Wed Nov 23 10:36:55 JST 2022)
+     0 directories, 2 files (Mon Nov 28 14:16:15 JST 2022)
 
     ./sZone--COVID-19
      ├──  COVID-19/
@@ -21,7 +21,9 @@ Special / Social Zone
      │   │   │   ├──  FY2022.txt
      │   │   │   ├──  README.md
      │   │   │   ├──  checkit.sh
-     │   │   │   └──  convit.sh
+     │   │   │   ├──  checkit.sh.bak
+     │   │   │   ├──  convit.sh
+     │   │   │   └──  convit.sh.bak
      │   │   ├──  README.md
      │   │   └──  石川県の感染者総数の推移 -> Ishikawa
      │   └──  README.md
@@ -29,7 +31,7 @@ Special / Social Zone
      ├──  README.md.old
      └──  特設リンク：石川県 -> COVID-19/Japan/Ishikawa
      
-     5 directories, 14 files (Wed Nov 23 10:36:55 JST 2022)
+     5 directories, 16 files (Mon Nov 28 14:16:15 JST 2022)
 
     ./sZone--Weather
      ├──  Japan/
@@ -43,7 +45,7 @@ Special / Social Zone
      ├──  README.md
      └──  README.md.old
      
-     3 directories, 7 files (Wed Nov 23 10:36:55 JST 2022)
+     3 directories, 7 files (Mon Nov 28 14:16:15 JST 2022)
 
 
 Note: URL = https://github.com/hohno-46466/sZone
