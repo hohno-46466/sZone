@@ -6,7 +6,7 @@ Special / Social Zone
      ├──  README.md
      └──  README.md.old
      
-     0 directories, 2 files (Wed Dec 28 13:47:17 JST 2022)
+     0 directories, 2 files (Mon Jan  2 22:55:39 JST 2023)
 
     ./sZone--COVID-19
      ├──  COVID-19/
@@ -31,7 +31,7 @@ Special / Social Zone
      ├──  README.md.old
      └──  特設リンク：石川県 -> COVID-19/Japan/Ishikawa
      
-     5 directories, 16 files (Wed Dec 28 13:47:17 JST 2022)
+     5 directories, 16 files (Mon Jan  2 22:55:40 JST 2023)
 
     ./sZone--Weather
      ├──  Japan/
@@ -45,7 +45,7 @@ Special / Social Zone
      ├──  README.md
      └──  README.md.old
      
-     3 directories, 7 files (Wed Dec 28 13:47:17 JST 2022)
+     3 directories, 7 files (Mon Jan  2 22:55:40 JST 2023)
 
 
 Note: URL = https://github.com/hohno-46466/sZone
